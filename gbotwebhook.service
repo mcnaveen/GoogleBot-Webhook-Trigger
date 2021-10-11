@@ -6,7 +6,7 @@ After=network.target
 [Service]
 Type=simple
 WorkingDirectory=/root
-ExecStart=/bin/bash /home/root/gbotwebook.sh
+ExecStart=/bin/bash /home/root/gbotwebhook.sh
 Restart=always
 RestartSec=3
 
