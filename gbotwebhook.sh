@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Author: MC.Naveen
+# Shell Script to Fire a webhook when GoogleBot visits your website.
+# Github: https://github.com/mcnaveen/GoogleBot-Webhook-Trigger
+# Note: If you're not using Nginx as your Webserver. Please change the logFile path accordingly
+
 # Webhook URL
 webhookURL=PASTE WEBHOOK URL HERE
 
